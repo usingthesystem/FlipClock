@@ -1,0 +1,16 @@
+{
+  "name": "FlipClock",
+  "version": "0.4.0",
+  "homepage": "https://github.com/objectivehtml/FlipClock",
+  "description": "FlipClock",
+  "main": [
+      "compiled/flipclock.js",
+      "compiled/flipclock.css"
+  ],
+  "authors": [
+    "Objective HTML"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  }
+}
